@@ -1,0 +1,6 @@
+Hello There 
+This is list1.txt file
+
+My name is Atul Kumar.
+I am from India.
+My speak hindi, English , Chinese and Korean
